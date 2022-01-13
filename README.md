@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abid Jamil</h1>
 <h3 align="center">🧑🏽‍💻Technical Lead @ GrocerApp </h3>
+<p align="center">
+	<a href="https://www.linkedin.com/in/abidjamil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+  <a href="https://github.com/abidjamil"><img src="https://img.shields.io/github/followers/wajahatkarim3.svg?label=GitHub&style=social" alt="GitHub"></a>  
+</p>
 <h6>💻 Open source contriubtion </h6>
 <h6>📝 Author of 18 research articles.</h6>
 <h6>🎤 Actively working on community building through public speaking at different national and international venues.</h6>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidjamil&label=Profile%20views&color=0e75b6&style=flat" alt="abidjamil" /> </p>
 
