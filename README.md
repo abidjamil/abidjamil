@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abid Jamil</h1>
-<h3 align="center">🧑🏽‍💻Engineering Manager @ Jugnu Tech </h3>
+<h3 align="center">🧑🏽‍💻Engineering Manager @ Dubicars </h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/abidjamil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
   <a href="https://github.com/abidjamil"><img src="https://img.shields.io/github/followers/wajahatkarim3.svg?label=GitHub&style=social" alt="GitHub"></a>  
