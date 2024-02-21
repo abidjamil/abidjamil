@@ -15,13 +15,13 @@
 
 <p align="left"> <a href="https://twitter.com/chabidgill" target="blank"><img src="https://img.shields.io/twitter/follow/chabidgill?logo=twitter&style=for-the-badge" alt="chabidgill" /></a> </p>
 
-- 🔭 I’m currently working on **grocerapp**
+- 🔭 I’m currently working on **Dubicars 🚗** 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **cloneappdetection**
 
-- 💬 Ask me about **Android, IOS, ReactJs**
+- 💬 Ask me about **Android, IOS, ReactJs, AWS**
 
 - 📫 How to reach me **abidjamil222@gmail.com**
 
